@@ -24,4 +24,4 @@ npm start
 ```
 ## Demo
 
-(https://v-zagorovskii.github.io/todo_app/)
+(https://v-zagorovskii.github.io/react_todo-app-with-api/)
